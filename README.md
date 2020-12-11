@@ -30,6 +30,7 @@ to get more details on how to use the extension on these platforms.
 Read the [FAQ](https://github.com/PowerShell/vscode-powershell/wiki/FAQ) for answers to common questions.
 
 ## Features
+#1
 
 - Syntax highlighting
 - Code snippets
